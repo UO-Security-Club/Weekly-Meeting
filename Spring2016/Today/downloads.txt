@@ -8,3 +8,16 @@ Donwload Protostar:
 https://drive.google.com/folderview?id=0B9RbZkKdRR8qbkJjQ2VXbWNlQzg&usp=sharing
 
 
+Additional Resources:
+	- x86 Assembly 
+	https://www.youtube.com/watch?v=fHE0txCjGgI&list=PL0C5C980A28FEE68D&index=1
+
+	- Buffer overflow intro
+	https://www.youtube.com/watch?v=1S0aBV-Waeo
+	
+	- Buffer overflow playlist
+	https://www.youtube.com/watch?v=RF7DF4kfs1E&list=PL118A3998B4401EC6&index=1
+
+	- MIT Open course
+	https://www.youtube.com/watch?v=6bwzNg5qQ0o&index=2&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
+
