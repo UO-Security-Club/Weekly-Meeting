@@ -1,6 +1,6 @@
 CC=gcc
 SOURCE=*.c
-CFLAGS=-fno-stack-protector
+CFLAGS=-g -fno-stack-protector
 hack: *.c
 	$(CC) $(CFLAGS) -o hack $(SOURCE)
 clean:
